@@ -26,13 +26,13 @@ Add the following dependency to your app's build.gradle file:
 
 ```kotlin
 dependencies {     
-  implementation("so.cello.android:cello-sdk:0.1.0") 
+  implementation("so.cello.android:cello-sdk:0.2.0") 
 }
 ```
 
 ```groovy
 dependencies {
-    implementation 'so.cello.android:cello-sdk:0.1.0'
+    implementation 'so.cello.android:cello-sdk:0.2.0'
 }
 ```
 
